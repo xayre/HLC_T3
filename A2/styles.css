@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(213, 249, 255);
+    margin: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.box {
+    color: azure;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+  flex-direction: row;
+}
+
+.container{
+  flex-flow: column wrap;
+}
+
+.container {
+  justify-content:space-between;
+}
+
+.container{
+  align-items: stretch;
+}
